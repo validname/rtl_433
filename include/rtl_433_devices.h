@@ -259,6 +259,7 @@
     DECL(bresser_lightning) \
     DECL(schou_72543_rain) \
     DECL(fineoffset_wh55) \
+    DECL(chinese_temperature_humidity_sensor) \
 
     /* Add new decoders here. */
 
